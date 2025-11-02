@@ -63,4 +63,9 @@ for(int i=0;i<n/2;i++){
     }
 
 }
-     
+    
+
+//same for right rotate in which
+// reverse last k
+// reverse first n-k
+// the whole
